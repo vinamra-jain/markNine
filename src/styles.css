@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap");
+
+:root {
+  --background-color: #edf2fb;
+  --border-color: #abc4ff;
+  --darkest-color: #3b077e;
+  --text-color: #6098ff;
+}
+.App {
+  font-family: "Noto Sans TC", sans-serif;
+  text-align: left;
+  color: var(--text-color);
+  width: 75%;
+  margin: auto;
+  padding-top: 3rem;
+}
+body {
+  background-color: var(--background-color);
+}
+hr {
+  margin-left: 0.7rem;
+  border: 0.5px dashed var(--darkest-color);
+}
+button {
+  margin: 0.7rem;
+  padding: 0.7rem;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-weight: bolder;
+  font-size: 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+}
+
+button:active,
+button:focus {
+  border: 1px solid var(--darkest-color);
+}
