@@ -65,7 +65,7 @@ export default function App() {
                 margin: "0.7rem",
                 marginTop: "1rem",
                 padding: "1rem",
-                width: "50%",
+                width: "55%",
                 borderRadius: "0.5rem"
               }}
               key={song}
