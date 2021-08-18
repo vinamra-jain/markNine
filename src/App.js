@@ -4,24 +4,28 @@ import "./styles.css";
 const genreDB = {
   Ghazal: {
     "Tum Itna Jo Muskura Rahe Ho - Jagjit Singh": "5.0/5.0",
-    "Tum Ko Dekha To Yeh Khayal Aaya - Jagjit Singh": "4.5/5.0",
     "Chandi Jaisa Rang - Pankaj Udhas": "5.0/5.0",
     "Tujhse Naraz Nahin Zindagi - Gulzar": "5.0/5.0",
     "Koi Fariyaad - Jagjit Singh": "5.0/5.0",
-    "Aap Jinke Kareeb Hote Hain - Pankaj Udhas": "5.0/5.0"
+    "Aap Jinke Kareeb Hote Hain - Pankaj Udhas": "5.0/5.0",
+    "Tum Ko Dekha To Yeh Khayal Aaya - Jagjit Singh": "4.5/5.0"
   },
   Classical: {
-    "Yeh Moh Moh Ke Dhaage(Male)": "4.5/5.0",
-    "O Re Piya - Rahat Fateh Ali Khan": "5.0/5.0"
+    "O Re Piya - Rahat Fateh Ali Khan": "5.0/5.0",
+    "Kalank (Title Track) - Arijit Singh": "5.0/5.0",
+    "Yeh Moh Moh Ke Dhaage(Male)": "4.5/5.0"
   },
   "Lo-fi": {
     "kya mujhe pyar-KK (I.N.D.N lo-fi remix)": "5.0/5.0",
-    "Channa Mereya - Arijit Singh(I.N.D.N Lo-fi Remix)": "4.5/5.0"
+    "Channa Mereya - Arijit Singh(I.N.D.N Lo-fi Remix)": "4.5/5.0",
+    "Agar Tum Sath Ho Remix - Uzumaki Baka": "4.0/5.0"
   },
   Pop: {
     "Arcade - Duncan Laurence": "5.0/5.0",
+    "Cradles - Sub Urban": "5.0/5.0",
+    "Astronaut In The Ocean": "4.5/5.0",
     "MONTERO (Call Me By Your Name)": "4.5/5.0",
-    "Cradles - Sub Urban": "5.0/5.0"
+    "Levitating (feat. DaBaby)": "4.0/5.0"
   }
 };
 
